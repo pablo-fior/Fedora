@@ -14,6 +14,13 @@
 Copy and paste this commands to Termux
 > apt update
 
+- [x] Fedora 42
+
+Rootfs : Arm64, Amd64
+```
+apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Fedora/main/Install/fedora_42.sh ; chmod +x fedora_42.sh ; ./fedora_42.sh
+```
+
 - [x] Fedora 41
 
 Rootfs : Arm64, Amd64
